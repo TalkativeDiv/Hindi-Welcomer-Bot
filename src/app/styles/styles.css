@@ -1,7 +1,6 @@
 .HindiWelcomerBot{
-     display: flex;
-     justify-content: center;
-     align-items: center;
-     height: 200px;
-     border: 3px solid green;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 40%;
 }
